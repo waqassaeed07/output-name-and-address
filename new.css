@@ -1,0 +1,14 @@
+#forn{
+    border: 2px solid black;
+   
+   padding: 50px;
+   float: left;
+
+}
+#ddd{
+    border:2px solid black;
+    margin-right: 500px;
+    padding:50px;
+
+    float: right;
+}
